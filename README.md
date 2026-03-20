@@ -178,20 +178,7 @@ Data cleaning was required due to:
 
 ## Dashboard Preview
 
-### Executive Overview
-![Overview](SerieA_Screenshots/Performance_Overview.png)
 
-### Offensive Analysis
-![Offense](SerieA_Screenshots/Attacking_Performance.png)
-
-### Defensive Analysis
-![Defense](SerieA_Screenshots/Defensive_Performance.png)
-
-### Tactical Analysis
-![Tactical](SerieA_Screenshots/Tactical_Control.png)
-
-### Final Insights
-![Insights](SerieA_Screenshots/League_Comparison_Insights.png)
 
 ---
 
