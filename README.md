@@ -178,11 +178,11 @@ Data cleaning was required due to:
 
 ## Dashboard Preview
 
-![Overview] (SerieA_Screenshots/Performance_Overview.png)
-![Overview] (SerieA_Screenshots/Attacking_Performance.png)
-![Overview] (SerieA_Screenshots/Defensive_Performance.png)
-![Overview] (SerieA_Screenshots/Tactical & Control Impact.png)
-![Overview] (SerieA_Screenshots/League_Comaparison_&_Insights.png)
+(SerieA_Screenshots/Performance_Overview.png)
+(SerieA_Screenshots/Attacking_Performance.png)
+(SerieA_Screenshots/Defensive_Performance.png)
+(SerieA_Screenshots/Tactical & Control Impact.png)
+(SerieA_Screenshots/League_Comaparison_&_Insights.png)
 
 ---
 
